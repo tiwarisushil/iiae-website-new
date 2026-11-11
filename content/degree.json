@@ -1,0 +1,14 @@
+{
+  "degreeLevels": [
+    {
+      "id": "1",
+      "label": "Certificate"
+    }
+  ],
+  "fieldsOfStudy": [
+    {
+      "id": "1",
+      "label": "Aviation"
+    }
+  ]
+}
